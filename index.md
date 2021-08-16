@@ -2,4 +2,4 @@
 
 ## Obrázek 1
 
-![Na plovárně](/img/image6.jpeg)
+![Na plovárně](/image6.jpeg)
