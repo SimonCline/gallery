@@ -1,4 +1,4 @@
-# Galerie Zdeněka Šimůnka
+# Galerie Zdeňka Šimůnka
 
 ![Na plovárně](/image6.jpeg)
 > nazev obrazu
