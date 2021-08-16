@@ -1,9 +1,11 @@
-# Zdeněk Šimůnek se představuje
-
-## Obrázek 1
+# Galerie Zdeněka Šimůnka
 
 ![Na plovárně](/image6.jpeg)
-> Tento obrazek je uplne testovaci
+> nazev obrazu
+
+* obraz ma ram
+* velikost obrazu 10x10
+* spachtle
 
 Tohle je napsane v [Markupu](https://www.markdownguide.org/basic-syntax/)
 
