@@ -2,8 +2,8 @@
 
 Tohle je napsane v [Markupu](https://www.markdownguide.org/basic-syntax/)
 
-![Na plovárně beta](image7.jpeg)
-> název
+![Lampička](IMG_20210807_162427.jpg)
+> Lampička
 
 atd.
 
