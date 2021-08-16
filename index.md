@@ -1,11 +1,25 @@
 # Galerie Zdeňka Šimůnka
 
-![Na plovárně](/image6.jpeg)
+Tohle je napsane v [Markupu](https://www.markdownguide.org/basic-syntax/)
+
+![Na plovárně beta](image7.jpeg)
+> název
+
+atd.
+
+Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text ...
+
+Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text Delší text ...
+
+![Na plovárně beta](image8.jpeg)
+> kopie obrázku
+
+- větší než obvykle
+- matný
+
+![Na plovárně](image6.jpeg)
 > nazev obrazu
 
 * obraz ma ram
 * velikost obrazu 10x10
 * spachtle
-
-Tohle je napsane v [Markupu](https://www.markdownguide.org/basic-syntax/)
-
